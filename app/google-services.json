@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76666960744",
+    "project_id": "canadaw-9b02d",
+    "storage_bucket": "canadaw-9b02d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76666960744:android:febe6cefa4600b6a9ab4dd",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.canadaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76666960744-vevdaqs1d9ibsdc32snoo73h9481g3rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.canadaw",
+            "certificate_hash": "9f9ae61be031d3ae7eb6e75ce0a86b3574897ca5"
+          }
+        },
+        {
+          "client_id": "76666960744-1gs69bgr86emdfs3h17t6ltmoa0fbem7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4KQxdo-jyv3QX53K1bFHqx6v8INqe2S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76666960744-1gs69bgr86emdfs3h17t6ltmoa0fbem7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

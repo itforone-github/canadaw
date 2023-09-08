@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">canadaw</string>
+    <string name="index">http://canadaw2.itforone.co.kr/</string>
+    <string name="chklogin">http://canadaw2.itforone.co.kr/android_login.php?id=</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id">canadaw</string>
+</resources>
